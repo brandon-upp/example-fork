@@ -2,6 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/gh-pages",
+  images: {unoptimized: true}
 };
 
 module.exports = nextConfig;
